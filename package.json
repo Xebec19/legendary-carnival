@@ -1,0 +1,26 @@
+{
+  "name": "legendary-carnival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "online": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xebec19/legendary-carnival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xebec19/legendary-carnival/issues"
+  },
+  "homepage": "https://github.com/Xebec19/legendary-carnival#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
